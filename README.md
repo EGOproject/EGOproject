@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning many programming languages
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on my projects and one can use my projects to teach and learn
-- 📫 
+- 📫 https://chat.whatsapp.com/JwkEQ7FF2EVClrg4BUO735
 - 📫 click the link to join my whats app group. 
 
 <!---
