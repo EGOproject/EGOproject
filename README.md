@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EGOproject
+- 👋 Hi, I’m @EGO
 - 👀 I’m interested in learning many programming languages
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on my projects and one can use my projects to teach and learn
