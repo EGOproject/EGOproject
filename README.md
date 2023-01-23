@@ -6,7 +6,7 @@
 <br>
 - 🌱 I’m currently learning **Computer science, python in particular**
 
-- 💬 Ask me about **python, java, c, html, css**
+- 💬 Ask me about **python, java, c, html, css, vb script, batchscript😎**
 
 - 📫 How to reach me **enockmci@gmail.com**
  
