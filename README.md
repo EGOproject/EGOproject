@@ -4,7 +4,7 @@
 <hr>
 💫 About Me:
 <br>
-- 🌱 I’m currently learning **Computer science, python in particular**
+- 🌱 I’m currently learning **Computer science, currently learning python in particular with other theory**
 
 - 💬 Ask me about **python, java, html, css, vb script, batchscript😎**
 
