@@ -4,7 +4,7 @@
 <hr>
 💫 About Me:
 <br>
-- 🌱 I’m currently learning **Computer science, currently learning python in particular with other theory**
+- 🌱 I’m currently learning **Computer science, currently concentrating on python and modules like tkinter and kivy**
 
 - 💬 Ask me about **python, java, html, css, vb script, batchscript😎**
 
