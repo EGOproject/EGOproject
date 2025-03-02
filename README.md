@@ -1,5 +1,5 @@
 <center style="float:center; align:center">
-<h1 align="center">Hi 👋, I'm EGOProject Enock Ssemwogerere</h1>
+<h1 align="center">Hi 👋, I'm Enock Ssemwogerere</h1>
 <h3 align="center">Computer scientist database and front end developer...for now😎</h3>
 <hr>
 💫 About Me:
